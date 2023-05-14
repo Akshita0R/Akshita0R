@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshita R</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt ="coding" width="400" src ="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F15215756-Coding-Animation-Concept&psig=AOvVaw3UxkLZZk53dw4RuYfVpt9a&ust=1684125066733000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKicgPX88_4CFQAAAAAdAAAAABAE">
+<img align="right" alt ="coding" width="400" src ="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshita0r&label=Profile%20views&color=0e75b6&style=flat" alt="akshita0r" /> </p>
 
