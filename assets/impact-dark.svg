@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1152 132" width="1152" height="132" role="img" aria-label="Impact: 15+ product KPIs, about 40% less manual reporting, 20% drop-off uncovered leading to 3 product changes, 129-case AI evaluation">
+<style>.t{font-family:"Segoe UI",-apple-system,Helvetica,Arial,sans-serif}</style>
+<g transform="translate(0 0)"><rect width="276" height="132" rx="12" fill="#151b23" stroke="#3d444d"/>
+<text x="20" y="58" font-size="40" font-weight="700" fill="#6b9bff" class="t" letter-spacing="-1">15+</text>
+<text x="20" y="88" font-size="15" font-weight="600" fill="#f0f6fc" class="t">product KPIs defined</text>
+<text x="20" y="110" font-size="12.5" fill="#9198a1" class="t">across 10+ Power BI dashboards</text></g><g transform="translate(292 0)"><rect width="276" height="132" rx="12" fill="#151b23" stroke="#3d444d"/>
+<text x="20" y="58" font-size="40" font-weight="700" fill="#6b9bff" class="t" letter-spacing="-1">~40%</text>
+<text x="20" y="88" font-size="15" font-weight="600" fill="#f0f6fc" class="t">less manual reporting</text>
+<text x="20" y="110" font-size="12.5" fill="#9198a1" class="t">SQL &amp; data-quality standards</text></g><g transform="translate(584 0)"><rect width="276" height="132" rx="12" fill="#151b23" stroke="#3d444d"/>
+<text x="20" y="58" font-size="40" font-weight="700" fill="#6b9bff" class="t" letter-spacing="-1">20%</text>
+<text x="20" y="88" font-size="15" font-weight="600" fill="#f0f6fc" class="t">drop-off uncovered</text>
+<text x="20" y="110" font-size="12.5" fill="#9198a1" class="t">→ 3 product changes shipped</text></g><g transform="translate(876 0)"><rect width="276" height="132" rx="12" fill="#151b23" stroke="#3d444d"/>
+<text x="20" y="58" font-size="40" font-weight="700" fill="#6b9bff" class="t" letter-spacing="-1">129</text>
+<text x="20" y="88" font-size="15" font-weight="600" fill="#f0f6fc" class="t">case AI evaluation</text>
+<text x="20" y="110" font-size="12.5" fill="#9198a1" class="t">drove MedNear's go / no-go</text></g>
+</svg>
